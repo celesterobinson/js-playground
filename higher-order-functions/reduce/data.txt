@@ -1,0 +1,6 @@
+celeste waffle 80 2
+celeste blender 200 1
+celeste knife 10 4
+austie waffle 80 2
+austie blender 200 1
+austie knife 10 4
